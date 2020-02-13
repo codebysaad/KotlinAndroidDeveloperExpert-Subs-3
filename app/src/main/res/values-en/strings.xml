@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">KADE Football Language</string>
+    <string name="change_language">Change Language</string>
+    <string name="logo_desc">This Logo of League</string>
+    <string name="league_division">League Division</string>
+    <string-array name="id">
+        <item>4328</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4335</item>
+        <item>4344</item>
+        <item>4356</item>
+        <item>4330</item>
+        <item>4396</item>
+    </string-array>
+    <string-array name="name">
+        <item>English Premier League</item>
+        <item>French Ligue 1</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>Spanish La Liga</item>
+        <item>Protugeuese Premiera Liga</item>
+        <item>Australian A League</item>
+        <item>Scotish Premier League</item>
+        <item>English League 1</item>
+    </string-array>
+    <string-array name="logo">
+        <item>@drawable/english1_premier_league</item>
+        <item>@drawable/french2_ligue_1</item>
+        <item>@drawable/german3_bundesliga</item>
+        <item>@drawable/italian4_serie_a</item>
+        <item>@drawable/spanish5_la_liga</item>
+        <item>@drawable/american6_mayor_league</item>
+        <item>@drawable/portugeuese7_premiera_liga</item>
+        <item>@drawable/australian8_a_league</item>
+        <item>@drawable/scotish9_premier_league</item>
+        <item>@drawable/english10_league_1</item>
+    </string-array>
+    <string-array name="desc">
+        <item>The Premier League (often referred to as the English Premier League (EPL) outside England), is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL). The Premier League is a corporation in which the member clubs act as shareholders. Seasons run from August to May with each team playing 38 matches (playing each other home and away). Most games are played on Saturday and Sunday afternoons. The Premier League has featured 47 English and two Welsh clubs since its inception, making it a cross-border league.</item>
+        <item>Ligue 1 (French pronunciation: ​; League 1, formerly known as Division 1), is the French professional league for association football clubs. It is the countrys primary football competition and serves as the top division of the French football league system. Ligue 1 is one of two divisions making up the Ligue de Football Professionnel, the other being Ligue 2. Contested by 20 clubs, it operates on a system of promotion and relegation with Ligue 2. Seasons run from August to May, with teams playing 38 games each totaling 380 games in the season. </item>
+        <item>The Fußball-Bundesliga (English: Football Federal League), commonly known as the Bundesliga, is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide. At the top of the German football league system, the Bundesliga is Germanys primary football competition. The Bundesliga is contested by 18 teams and operates on a system of promotion and relegation with the 2. Bundesliga. Seasons run from August to May. Most games are played on Saturdays and Sundays, with a few games played during weekdays.</item>
+        <item>Serie A, also called Serie A TIM due to sponsorship by Telecom Italia, is a professional league competition for football clubs located at the top of the Italian football league system and has been operating for over eighty years since the 1929–30 season. It had been organized by Lega Calcio until 2010, but a new league, the Lega Serie A, was created for the 2010–11 season. Serie A is regarded as one of the best football leagues in the world. Serie A was considered the best league in the world in the 90s, and has produced the highest number of European Cup finalists: Italian clubs have reached the final of the competition on a record twenty-six different occasions, winning the title twelve times. </item>
+        <item>The Primera División, commonly known as La Liga and as La Liga Santander for sponsorship reasons, is the top professional association football division of the Spanish football league system. Administrated by the Liga de Futbol Profesional (LFP), La Liga is contested by 20 teams, with the three lowest-placed teams relegated to the Segunda División and replaced by the top two teams in that division plus the winner of a play-off. A total of 60 teams have competed in La Liga since its inception. Nine teams have been crowned champions, with Real Madrid winning the title a record 32 times and Barcelona 24 times.</item>
+        <item>Major League Soccer (MLS) is a professional soccer league representing the sports highest level in both the United States and Canada. MLS constitutes one of the major professional sports leagues of the United States and Canada. The league is composed of 20 teams—17 in the U.S. and 3 in Canada. The MLS regular season runs from March to October, with each team playing 34 games; the team with the best record is awarded the Supporters Shield. The post season includes twelve teams competing in the MLS Cup Playoffs through November and December, culminating in the championship game, the MLS Cup.</item>
+        <item>The Primeira Liga (First League; Portuguese pronunciation: ), formerly called Primeira Divisão), is the top professional association football division of the Portuguese football league system. The Primeira Liga is contested by 18 clubs, but only five of them have won the title. Founded in 1934, the league is in its 81st edition (counting four experimental leagues in the 1930s). It has been dominated by the Big Three: Benfica, Porto and Sporting CP. These three clubs have won a total of 78 titles, with Belenenses and Boavista winning the other two.</item>
+        <item>The A-League is a professional mens soccer league, run by Football Federation Australia (FFA). At the top of the Australian league system, it is the countrys primary competition for the sport. The A-League was established in 2004 as a successor to the National Soccer League (NSL) and competition commenced in August 2005. The league is currently contested by ten teams; nine based in Australia and one based in New Zealand. It is known as the Hyundai A-League (HAL) through a sponsorship arrangement with the Hyundai Motor Company. Seasons run from October to May and include a 27-round regular season and an end-of-season finals series playoff tournament involving the highest-placed teams, culminating in a grand final match.</item>
+        <item>The Scottish Premiership is the top division of the Scottish Professional Football League, the league competition for professional football clubs in Scotland. The Scottish Premiership was established in July 2013, after the Scottish Professional Football League was formed by a merger of the Scottish Premier League and Scottish Football League. Teams receive three points for a win and one point for a draw. No points are awarded for a loss. Teams are ranked by total points, then goal difference, and then goals scored. At the end of each season, the club with the most points is crowned league champion. If points are equal, the goal difference and then goals scored determine the winner.</item>
+        <item>Football League One (often referred to as League One for short or Sky Bet League 1) is the second-highest division of the Football League and the third tier in the English football league system. Football League One was introduced for the 2004–05 season. It was previously known as the Football League Second Division and prior to the advent of the Premier League, the Football League Third Division. At present (2014–15 season), Oldham Athletic hold the longest tenure in League One, last being out of the division in the 1996–97 season when they were relegated from the Championship.</item>
+    </string-array>
+    <string name="search">Search</string>
+    <string name="list_league">List League</string>
+    <string name="schedule_match">Schedule Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="image_description">Image_Description</string>
+    <string name="first_league_event">First League Event</string>
+    <string name="gender">Gender</string>
+    <string name="country">Country</string>
+    <string name="social_media_s">Social Media\'s</string>
+    <string name="description">Description :</string>
+    <string name="vs">VS</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineup">Lineup</string>
+    <string name="formation">Formation</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="deffense">Deffense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="error_search">Sorry, your search could not be found</string>
+    <string name="manager">Manager</string>
+    <string name="jersey">Jersey</string>
+    <string name="stadium">Stadium</string>
+    <string name="location_stadium">Location Stadium</string>
+    <string name="stadium_capacity">Stadium Capacity</string>
+    <string name="stadium_description">Stadium Description</string>
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">KADE Football Language</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="logo_desc">Ini gambar untuk liga</string>
+    <string name="league_division">Divisi Liga</string>
+    <string-array name="id">
+        <item>4328</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4335</item>
+        <item>4344</item>
+        <item>4356</item>
+        <item>4330</item>
+        <item>4396</item>
+    </string-array>
+    <string-array name="name">
+        <item>English Premier League</item>
+        <item>French Ligue 1</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>Spanish La Liga</item>
+        <item>Protugeuese Premiera Liga</item>
+        <item>Australian A League</item>
+        <item>Scotish Premier League</item>
+        <item>English League 1</item>
+    </string-array>
+    <string-array name="logo">
+        <item>@drawable/english1_premier_league</item>
+        <item>@drawable/french2_ligue_1</item>
+        <item>@drawable/german3_bundesliga</item>
+        <item>@drawable/italian4_serie_a</item>
+        <item>@drawable/spanish5_la_liga</item>
+        <item>@drawable/american6_mayor_league</item>
+        <item>@drawable/portugeuese7_premiera_liga</item>
+        <item>@drawable/australian8_a_league</item>
+        <item>@drawable/scotish9_premier_league</item>
+        <item>@drawable/english10_league_1</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Liga Premier (sering disebut sebagai Liga Premier Inggris (EPL) di luar Inggris), adalah tingkat tertinggi dari sistem liga sepak bola Inggris. Diperebutkan oleh 20 klub, itu beroperasi pada sistem promosi dan degradasi dengan Liga Sepak Bola Inggris (EFL). Liga Premier adalah perusahaan di mana klub anggota bertindak sebagai pemegang saham. Musim berlangsung dari Agustus hingga Mei dengan masing-masing tim bermain 38 pertandingan (saling bermain di kandang dan tandang). Sebagian besar permainan dimainkan pada hari Sabtu dan Minggu sore. Liga Premier telah menampilkan 47 klub Inggris dan dua klub Welsh sejak awal, menjadikannya liga lintas batas.</item>
+        <item>Ligue 1 (pelafalan bahasa Prancis:; Liga 1, sebelumnya dikenal sebagai Divisi 1), adalah liga profesional Prancis untuk klub sepakbola asosiasi. Ini adalah kompetisi sepakbola utama negara dan berfungsi sebagai divisi utama sistem liga sepak bola Prancis. Ligue 1 adalah salah satu dari dua divisi yang membentuk Ligue de Football Professionnel, yang lainnya adalah Ligue 2. Diikuti oleh 20 klub, ia beroperasi dengan sistem promosi dan degradasi dengan Ligue 2. Musim berjalan mulai Agustus hingga Mei, dengan tim bermain 38 masing-masing game berjumlah 380 pertandingan di musim ini.</item>
+        <item>The Fußball-Bundesliga (Inggris: Football Federal League), umumnya dikenal sebagai Bundesliga, adalah liga sepak bola asosiasi profesional di Jerman dan liga sepak bola dengan kehadiran stadion rata-rata tertinggi di seluruh dunia. Di puncak sistem liga sepakbola Jerman, Bundesliga adalah kompetisi sepakbola utama Jerman. Bundesliga diperebutkan oleh 18 tim dan beroperasi pada sistem promosi dan degradasi dengan 2. Bundesliga. Musim berjalan dari Agustus hingga Mei. Sebagian besar permainan dimainkan pada hari Sabtu dan Minggu, dengan beberapa permainan dimainkan selama hari kerja.</item>
+        <item>Serie A, juga disebut Serie A TIM karena sponsor oleh Telecom Italia, adalah kompetisi liga profesional untuk klub sepak bola yang terletak di bagian atas sistem liga sepak bola Italia dan telah beroperasi selama lebih dari delapan puluh tahun sejak musim 1929 s.d 1930. Itu telah diselenggarakan oleh Lega Calcio hingga 2010, tetapi liga baru, Lega Serie A, diciptakan untuk musim 2010 s.d 2011. Serie A dianggap sebagai salah satu liga sepakbola terbaik di dunia. Serie A dianggap sebagai liga terbaik di dunia pada tahun 90an, dan telah menghasilkan jumlah finalis Piala Eropa tertinggi: klub klub Italia telah mencapai final kompetisi dengan catatan dua puluh enam kesempatan yang berbeda, memenangkan gelar dua belas kali.</item>
+        <item>Divisi Primera, umumnya dikenal sebagai La Liga dan La Liga Santander karena alasan sponsor, adalah divisi sepakbola asosiasi profesional teratas dari sistem liga sepak bola Spanyol. Dikelola oleh Liga de Futbol Profesional (LFP), La Liga diperebutkan oleh 20 tim, dengan tiga tim dengan posisi terendah diturunkan ke Segunda División dan digantikan oleh dua tim teratas di divisi itu ditambah pemenang play-off. Sebanyak 60 tim telah berkompetisi di La Liga sejak awal. Sembilan tim telah dinobatkan sebagai juara, dengan Real Madrid memenangkan gelar rekor 32 kali dan Barcelona 24 kali.</item>
+        <item>Major League Soccer (MLS) adalah liga sepak bola profesional yang mewakili level olahraga tertinggi di Amerika Serikat dan Kanada. MLS merupakan salah satu liga olahraga profesional utama Amerika Serikat dan Kanada. Liga ini terdiri dari 20 tim — 17 di AS dan 3 di Kanada. Musim reguler MLS berlangsung dari Maret hingga Oktober, dengan masing-masing tim bermain 34 pertandingan; tim dengan rekor terbaik dianugerahi Shield Pendukung. Musim pasca termasuk dua belas tim yang bersaing di Piala MLS Playoffs hingga November dan Desember, yang memuncak dalam pertandingan kejuaraan, Piala MLS.</item>
+        <item>Liga Primeira (Liga Pertama; pelafalan bahasa Portugis:), sebelumnya bernama Primeira Divisão), adalah divisi sepakbola asosiasi profesional teratas dari sistem liga sepak bola Portugal. Liga Primeira diperebutkan oleh 18 klub, tetapi hanya lima dari mereka yang memenangkan gelar. Didirikan pada tahun 1934, liga ini dalam edisi ke-81 (menghitung empat liga eksperimental pada 1930-an). Ini telah didominasi oleh Tiga Besar: Benfica, Porto dan Sporting CP. Ketiga klub ini telah memenangkan total 78 gelar, dengan Belenenses dan Boavista memenangkan dua gelar lainnya.</item>
+        <item>A-League adalah liga sepak bola profesional yang dijalankan oleh Federasi Sepak Bola Australia (FFA). Di bagian atas sistem liga Australia, ini adalah kompetisi utama negara untuk olahraga. A-League didirikan pada 2004 sebagai pengganti National Soccer League (NSL) dan kompetisi dimulai pada Agustus 2005. Liga saat ini diperebutkan oleh sepuluh tim; sembilan berbasis di Australia dan satu berbasis di Selandia Baru. Itu dikenal sebagai Hyundai A-League (HAL) melalui pengaturan sponsor dengan Hyundai Motor Company. Musim berlangsung dari Oktober hingga Mei dan termasuk musim reguler 27 putaran dan final playoff seri akhir musim yang melibatkan tim-tim yang berada di posisi tertinggi, yang memuncak dalam pertandingan grand final.</item>
+        <item>Scottish Premiership adalah divisi teratas dari Scottish Professional Football League, kompetisi liga untuk klub sepak bola profesional di Skotlandia. Scottish Premiership didirikan pada Juli 2013, setelah Liga Sepak Bola Profesional Skotlandia dibentuk oleh penggabungan Liga Premier Skotlandia dan Liga Sepak Bola Skotlandia. Tim menerima tiga poin untuk menang dan satu poin untuk seri. Tidak ada poin yang diberikan untuk kerugian. Tim diberi peringkat berdasarkan poin total, kemudian selisih gol, dan kemudian gol dicetak. Pada akhir setiap musim, klub dengan poin terbanyak dinobatkan sebagai juara liga. Jika poinnya sama, selisih gol dan kemudian gol yang dicetak menentukan pemenang.</item>
+        <item>Football League One (sering disebut sebagai League One untuk singkatan atau Sky Bet League 1) adalah divisi tertinggi kedua dari Football League dan tingkat ketiga dalam sistem liga sepak bola Inggris. Football League One diperkenalkan untuk musim 2004 s.d 2005. Sebelumnya dikenal sebagai Divisi Kedua Liga Sepakbola dan sebelum munculnya Liga Premier, Divisi Ketiga Liga Sepak Bola. Saat ini (musim 2014 s.d 2015), Oldham Athletic memegang masa jabatan terpanjang di League One, terakhir keluar dari divisi pada musim 1996 s.d 1997 ketika mereka terdegradasi dari Championship.</item>
+    </string-array>
+    <string name="search">Cari</string>
+    <string name="list_league">Daftar Liga</string>
+    <string name="schedule_match">Jadwal</string>
+    <string name="favorite">Favorit</string>
+    <string name="image_description">Deskripsi Gambar</string>
+    <string name="first_league_event">Kegiatan Pertama</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="country">Negara</string>
+    <string name="social_media_s">Media Sosial</string>
+    <string name="description">Deskripsi :</string>
+    <string name="vs">VS</string>
+    <string name="goals">Gol</string>
+    <string name="shots">Tendangan</string>
+    <string name="lineup">Line up</string>
+    <string name="formation">Formasi</string>
+    <string name="goal_keeper">Penjaga Gawang</string>
+    <string name="deffense">Pertahanan</string>
+    <string name="midfield">Gelandang</string>
+    <string name="forward">Penyerang</string>
+    <string name="subtitutes">Pengganti</string>
+    <string name="error_search">Maaf pencarian anda tidak dapat ditemukan</string>
+    <string name="manager">Manajer</string>
+    <string name="jersey">Jersey</string>
+    <string name="stadium">Stadium</string>
+    <string name="location_stadium">Location Stadium</string>
+    <string name="stadium_capacity">Stadium Capacity</string>
+    <string name="stadium_description">Stadium Description</string>
+</resources>

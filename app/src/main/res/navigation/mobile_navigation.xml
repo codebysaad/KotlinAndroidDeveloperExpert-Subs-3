@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_list">
+
+    <fragment
+        android:id="@+id/navigation_list"
+        android:name="xyz.webflutter.kadefootballlanguage.ui.fragment.league.MainListFragment"
+        android:label="@string/list_league"
+        tools:layout="@layout/fragment_main_list" />
+
+    <fragment
+        android:id="@+id/navigation_match"
+        android:name="xyz.webflutter.kadefootballlanguage.ui.fragment.match.MainMatchFragment"
+        android:label="@string/schedule_match"
+        tools:layout="@layout/fragment_league" />
+
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="xyz.webflutter.kadefootballlanguage.ui.fragment.favorite.MainFavoriteFragment"
+        android:label="@string/favorite"
+        tools:layout="@layout/fragment_favorite" />
+</navigation>
